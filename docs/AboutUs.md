@@ -9,14 +9,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### Andrew Soon
-
-<img src="images/andrewsoon.png" width="200px">
-
-[[homepage](andrewsoon.com)]
-[[github](https://github.com/andrewsoonqn)]
-[[portfolio](team/andrewsoon.md)]
-
 ### John Doe
 
 <img src="images/johndoe.png" width="200px">

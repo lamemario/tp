@@ -313,7 +313,29 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
       Use case resumes at step 2.
 
-*{More to be added}*
+**Use case: Batch Onboarding**
+
+**MSS**
+
+1. User requests to list all residents to check current occupancy.
+2. System shows a list of residents.
+3. User requests to add a new resident with mandatory and optional fields.
+4. System validates the data and adds the resident to the database.
+5. User requests to add another new resident with mandatory and optional fields.
+6. System adds the second resident.
+7. User verifies the new list.
+
+   Use case ends.
+
+**Extensions**
+
+* 3a. The room number is already assigned to another resident.
+    * 3a1. System shows an error message.
+    * Use case resumes at step 3.
+* 3b. User input is invalid.
+    * 3b1. System shows an error message regarding the format.
+    * Use case resumes at step 3.
+
 
 ### Non-Functional Requirements
 

@@ -9,6 +9,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
+### Andrew Soon
+
+<img src="images/andrewsoon.png" width="200px">
+
+[[homepage](andrewsoon.com)]
+[[github](https://github.com/andrewsoonqn)]
+[[portfolio](team/andrewsoon.md)]
+
 ### Sayyid Mehdi
 
 ![Sayyid Mehdi](images/lamemario.jpg)
@@ -26,15 +34,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Team Lead
 * Responsibilities: UI
-
-### Johnny Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Data
 
 ### Jean Doe
 
